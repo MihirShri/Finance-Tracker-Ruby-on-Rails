@@ -13,5 +13,5 @@ Just clone this repository on your local machine and run **bundle install --with
 
 # Screenshots
 <img src="https://github.com/MihirShri/Finance-Tracker-Ruby-on-Rails/blob/master/finance1.jpg" />
-<img src="">
-<img src="">
+<img src="https://github.com/MihirShri/Finance-Tracker-Ruby-on-Rails/blob/master/finance2.jpg" />
+<img src="https://github.com/MihirShri/Finance-Tracker-Ruby-on-Rails/blob/master/finance3.jpg" />
